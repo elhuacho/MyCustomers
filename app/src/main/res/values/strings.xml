@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Customers</string>
+    <string name="title_activity_main">Customers</string>
+    <string name="title_activity_customer">About Customer</string>
+    <string name="name_service_bbva">BBVA</string>
+    <string name="name_service_banco_comercio">Banco Comercio</string>
+    <string name="name_service_banco_falabella">Banco Falabella</string>
+    <string name="name_service_banco_ripley">Banco Ripley</string>
+    <string name="name_service_interbank">Interbank</string>
+    <string name="name_service_la_positiva">La Positiva</string>
+    <string name="name_service_mibanco">Mi banco</string>
+    <string name="name_service_prima">Prima</string>
+    <string name="contact_bbva">999 999 999</string>
+    <string name="contact_banco_comercio">999 999 998</string>
+    <string name="contact_banco_falabella">999 999 997</string>
+    <string name="contact_banco_ripley">999 999 996</string>
+    <string name="contact_interbank">999 999 995</string>
+    <string name="contact_la_positiva">999 999 994</string>
+    <string name="contact_mibanco">999 999 993</string>
+    <string name="contact_prima">999 999 992</string>
+    <string name="address_bbva">San Isidro</string>
+    <string name="address_banco_comercio">Cercado de Lima</string>
+    <string name="address_banco_falabella">San Miguel</string>
+    <string name="address_banco_ripley">Miraflores</string>
+    <string name="address_interbank">La Victoria</string>
+    <string name="address_la_positiva">San Isidro</string>
+    <string name="address_mibanco">Surquillo</string>
+    <string name="address_prima">San Isidro</string>
+    <string name="map_button">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
